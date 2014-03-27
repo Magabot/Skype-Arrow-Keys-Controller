@@ -1,0 +1,30 @@
+C:\Users\Francisco Dias\AppData\Local\Temporary Projects\skypeArrowsController\bin\Debug\skypeArrowsController.exe
+C:\Users\Francisco Dias\AppData\Local\Temporary Projects\skypeArrowsController\bin\Debug\skypeArrowsController.pdb
+C:\Users\Francisco Dias\AppData\Local\Temporary Projects\skypeArrowsController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Francisco Dias\AppData\Local\Temporary Projects\skypeArrowsController\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Francisco Dias\AppData\Local\Temporary Projects\skypeArrowsController\obj\x86\Debug\skypeArrowsController.csproj.ResolveComReference.cache
+C:\Users\Francisco Dias\AppData\Local\Temporary Projects\skypeArrowsController\obj\x86\Debug\MainWindow.baml
+C:\Users\Francisco Dias\AppData\Local\Temporary Projects\skypeArrowsController\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Francisco Dias\AppData\Local\Temporary Projects\skypeArrowsController\obj\x86\Debug\App.g.cs
+C:\Users\Francisco Dias\AppData\Local\Temporary Projects\skypeArrowsController\obj\x86\Debug\skypeArrowsController_MarkupCompile.cache
+C:\Users\Francisco Dias\AppData\Local\Temporary Projects\skypeArrowsController\obj\x86\Debug\skypeArrowsController.g.resources
+C:\Users\Francisco Dias\AppData\Local\Temporary Projects\skypeArrowsController\obj\x86\Debug\skypeArrowsController.Properties.Resources.resources
+C:\Users\Francisco Dias\AppData\Local\Temporary Projects\skypeArrowsController\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Francisco Dias\AppData\Local\Temporary Projects\skypeArrowsController\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Francisco Dias\AppData\Local\Temporary Projects\skypeArrowsController\obj\x86\Debug\skypeArrowsController.exe
+C:\Users\Francisco Dias\AppData\Local\Temporary Projects\skypeArrowsController\obj\x86\Debug\skypeArrowsController.pdb
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\Skype\Wfp\skypeArrowsController\skypeArrowsController\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\Skype\Wfp\skypeArrowsController\skypeArrowsController\obj\x86\Debug\skypeArrowsController.csproj.ResolveComReference.cache
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\Skype\Wfp\skypeArrowsController\skypeArrowsController\obj\x86\Debug\skypeArrowsController.exe
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\Skype\Wfp\skypeArrowsController\skypeArrowsController\obj\x86\Debug\skypeArrowsController.pdb
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\Skype\Wfp\skypeArrowsController\skypeArrowsController\bin\Debug\skypeArrowsController.exe
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\Skype\Wfp\skypeArrowsController\skypeArrowsController\bin\Debug\skypeArrowsController.pdb
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\Skype\Wfp\skypeArrowsController\skypeArrowsController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\Skype\Wfp\skypeArrowsController\skypeArrowsController\obj\x86\Debug\MainWindow.baml
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\Skype\Wfp\skypeArrowsController\skypeArrowsController\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\Skype\Wfp\skypeArrowsController\skypeArrowsController\obj\x86\Debug\App.g.cs
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\Skype\Wfp\skypeArrowsController\skypeArrowsController\obj\x86\Debug\skypeArrowsController_MarkupCompile.cache
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\Skype\Wfp\skypeArrowsController\skypeArrowsController\obj\x86\Debug\skypeArrowsController.g.resources
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\Skype\Wfp\skypeArrowsController\skypeArrowsController\obj\x86\Debug\skypeArrowsController.Properties.Resources.resources
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\Skype\Wfp\skypeArrowsController\skypeArrowsController\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Francisco Dias\Documents\Visual Studio 2010\Projects\Skype\Wfp\skypeArrowsController\skypeArrowsController\obj\x86\Debug\GenerateResource.write.1.tlog
